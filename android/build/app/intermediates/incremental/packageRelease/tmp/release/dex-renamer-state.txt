@@ -1,0 +1,4 @@
+#Fri Mar 19 23:52:35 IST 2021
+base.0=F\:\\PROJECTS\\Flutter Projects\\the_argus\\android\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

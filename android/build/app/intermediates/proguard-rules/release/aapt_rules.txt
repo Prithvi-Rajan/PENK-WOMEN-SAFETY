@@ -1,0 +1,139 @@
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:41
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:282
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:273
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:287
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:250
+-keep class com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:264
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:245
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:260
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:211
+-keep class com.google.firebase.auth.internal.FederatedSignInActivity { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:80
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:230
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:222
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:239
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:296
+-keep class com.intentfilter.androidpermissions.PermissionsActivity { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:188
+-keep class com.transistorsoft.flutter.backgroundfetch.HeadlessBroadcastReceiver { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:184
+-keep class com.transistorsoft.flutter.backgroundfetch.HeadlessJobService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:162
+-keep class com.transistorsoft.locationmanager.BootReceiver { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:141
+-keep class com.transistorsoft.locationmanager.activity.TSLocationManagerActivity { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:154
+-keep class com.transistorsoft.locationmanager.scheduler.ScheduleAlarmReceiver { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:157
+-keep class com.transistorsoft.locationmanager.scheduler.ScheduleJobService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:156
+-keep class com.transistorsoft.locationmanager.scheduler.ScheduleService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:150
+-keep class com.transistorsoft.locationmanager.service.ActivityRecognitionService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:152
+-keep class com.transistorsoft.locationmanager.service.BackgroundTaskService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:151
+-keep class com.transistorsoft.locationmanager.service.GeofencingService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:149
+-keep class com.transistorsoft.locationmanager.service.HeartbeatService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:148
+-keep class com.transistorsoft.locationmanager.service.LocationRequestService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:147
+-keep class com.transistorsoft.locationmanager.service.TrackingService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:169
+-keep class com.transistorsoft.locationmanager.util.LogFileProvider { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:200
+-keep class com.transistorsoft.tsbackgroundfetch.BootReceiver { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:193
+-keep class com.transistorsoft.tsbackgroundfetch.FetchAlarmReceiver { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:195
+-keep class com.transistorsoft.tsbackgroundfetch.FetchJobService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:41
+-keep class example.com.argus.the_argus.Application { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:46
+-keep class example.com.argus.the_argus.MainActivity { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:179
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:131
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at F:\PROJECTS\Flutter Projects\the_argus\android\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:207
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_alert_dialog_title_material.xml:56
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_alert_dialog_material.xml:52
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_alert_dialog_button_bar_material.xml:43
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_popup_menu_item_layout.xml:17
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_list_menu_item_layout.xml:17
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_cascading_menu_item_layout.xml:20
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_toolbar.xml:43
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_action_mode_bar.xml:19
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_simple.xml:17
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_dialog_title_material.xml:22
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_simple_overlay_action_mode.xml:32
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_screen_simple.xml:25
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at C:\Users\karth\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\res\layout\abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
