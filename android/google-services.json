@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7298025325",
+    "firebase_url": "https://argus-86770.firebaseio.com",
+    "project_id": "argus-86770",
+    "storage_bucket": "argus-86770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7298025325:android:d3c0bc336580d0530d3c64",
+        "android_client_info": {
+          "package_name": "com.logindemo.qwerty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7298025325-lqleffpb7raa9h0kn5sjpsf3ccgjr345.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwkmzz1kY9SfGAMnki2yO6AEOXu4pA_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7298025325-lqleffpb7raa9h0kn5sjpsf3ccgjr345.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
